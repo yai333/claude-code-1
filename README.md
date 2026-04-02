@@ -6,7 +6,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/DsRcA3GwPy)
 [![Follow on X](https://img.shields.io/badge/X-Follow%20@paidev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/paidev)
-[![Stars](https://img.shields.io/github/stars/chatgptprojects/claude-code?style=for-the-badge&color=yellow)](https://github.com/chatgptprojects/claude-code/stargazers)
+[![Stars](https://img.shields.io/github/stars/chatgptprojects/clear-code?style=for-the-badge&color=yellow)](https://github.com/chatgptprojects/clear-code/stargazers)
 
 ---
 
@@ -384,11 +384,11 @@ Helpful resources for getting deeper into AI-assisted coding:
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=chatgptprojects%2Fclaude-code&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=chatgptprojects%2Fclear-code&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=chatgptprojects/claude-code&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=chatgptprojects/claude-code&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=chatgptprojects/claude-code&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=chatgptprojects/clear-code&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=chatgptprojects/clear-code&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=chatgptprojects/clear-code&type=date&legend=top-left" />
  </picture>
 </a>
 
