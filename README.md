@@ -17,6 +17,12 @@ Every request. Every file it reads. Every token it burns.
 [See your Claude Code logs →](https://leanmcp.com/ai-gateway?utm_source=clear-code&utm_medium=github&utm_campaign=readme)
 One URL change. No code required.  
 [Docs](https://docs.leanmcp.com/ai-gateway/claude-code)
+```bash
+# Two lines to make Claude Code observable
+export ANTHROPIC_BASE_URL=https://aigateway.leanmcp.com/v1/anthropic
+export ANTHROPIC_API_KEY=your_leanmcp_key
+# Run any Claude Code task — go to app.leanmcp.com to see the log
+```
 ---
 
 **Clear-Code** is a comprehensive, community-driven resource hub dedicated to cataloging, comparing, and promoting the best **open-source AI coding assistants** available today. Whether you're a solo developer, a startup founder, or part of a large engineering team, this repository is your one-stop guide to finding the right AI-powered coding tool — without vendor lock-in, without closed-source limitations, and without the hefty price tags.
